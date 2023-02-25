@@ -1,4 +1,4 @@
 # remogochi
 A remote-controlled desktop tamagochi
 
-Inspired by DesktopGoose
+<s>Inspired by DesktopGoose</s> nvm, it's a mod
